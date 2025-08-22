@@ -27,6 +27,7 @@ Make sure you have the following Python packages installed:
 You can install them using:
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
+```
 
 ## Project Structure
 heart-disease-prediction/
@@ -37,6 +38,8 @@ heart-disease-prediction/
 
 └── README.md # Project documentation
 
+---
+
 ## How to Run
 
 Follow these steps to run the Heart Disease Prediction project:
@@ -45,7 +48,8 @@ Follow these steps to run the Heart Disease Prediction project:
 
 ```bash
 git clone https://github.com/<your-username>/heart-disease-prediction.git
-cd heart-disease-prediction
+cd heart-disease-prediction 
+```
 
 ### 2. Install Dependencies
 
